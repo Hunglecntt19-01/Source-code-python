@@ -1,0 +1,17 @@
+KH001|Nguyễn Văn An|0912345678|an.nguyen@gmail.com|Hà Nội|Cá nhân|58500000|14|Kim Cương
+KH002|Trần Thị Mai|0987654321|mai.tran@yahoo.com|Hải Phòng|Cá nhân|24500000|7|Vàng
+KH003|Công ty Công nghệ Á Châu|0903112233|contact@achau.vn|Hà Nội|Doanh nghiệp|120000000|25|Kim Cương
+KH004|Lê Hoàng Long|0934556677|long.le@gmail.com|Đà Nẵng|Cá nhân|8200000|4|Bạc
+KH005|Phạm Thị Lan|0978990011|lan.pham@outlook.com|Nam Định|Cá nhân|3200000|2|Đồng
+KH006|Công ty TNHH Minh Khang|0918223344|info@minhkhang.com|Bắc Ninh|Doanh nghiệp|45000000|9|Vàng
+KH007|Vũ Đình Hưng|0945667788|hung.vu@gmail.com|Hà Nam|Cá nhân|12500000|6|Bạc
+KH008|Đỗ Thu Trang|0967112233|trang.do@gmail.com|Hà Nội|Cá nhân|67000000|18|Kim Cương
+KH009|Hoàng Văn Bình|0923445566|binh.hoang@gmail.com|Quảng Ninh|Cá nhân|4500000|3|Đồng
+KH010|Công ty CP Đại Dương Xanh|0909887766|ocean@blueseacorp.vn|Hải Dương|Doanh nghiệp|85000000|16|Kim Cương
+KH011|Ngô Quỳnh Chi|0981223344|chi.ngo@gmail.com|Hà Nội|Cá nhân|18000000|5|Bạc
+KH012|Bùi Anh Tuấn|0938776655|tuan.bui@hotmail.com|Vĩnh Phúc|Cá nhân|29000000|8|Vàng
+KH013|Dương Minh Trí|0977334455|tri.duong@gmail.com|Thái Nguyên|Cá nhân|2500000|1|Đồng
+KH014|Công ty XNK Nhật Nam|0915667788|import@nhatnam.vn|Hưng Yên|Doanh nghiệp|35000000|6|Vàng
+KH015|Tạ Khánh Linh|0969554433|linh.ta@gmail.com|Hà Nội|Cá nhân|51000000|12|Kim Cương
+KH016|Phan Trọng Tấn|0944112233|tan.phan@gmail.com|Thanh Hóa|Cá nhân|1500000|1|Đồng
+KH20|TÔ NHƯ QUỲNH|0999999999|HUNGMONLI123@GMAIL.COM|KTX TRUONG DH DAI NAM|Cá nhân|10000000|10|Bạc
